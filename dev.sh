@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker run -it --name "part2" centos:latest
+docker run -i --name "part2" centos:latest
